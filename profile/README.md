@@ -1,8 +1,8 @@
 <div align="center">
   <img src="zennotes.png" alt="ZenNotes" width="140">
   <h1>ZenNotes</h1>
-  <p><strong>Keyboard-first local Markdown notes with Vim motions, diagrams, and first-party MCP integration.</strong></p>
-  <p>Plain files. Fast editing. AI tools working directly against the same vault.</p>
+  <p><strong>Vim-motions-first local Markdown notes with keyboard-first navigation, diagrams, and first-party MCP integration.</strong></p>
+  <p>Plain files. Fast editing. Real Vim motions for moving through notes, panes, lists, and preview.</p>
   <p>
     <a href="https://github.com/ZenNotes/zennotes/releases/latest">Download Latest Release</a>
     ·
@@ -17,14 +17,14 @@
 ---
 
 <div align="center">
-  ZenNotes keeps your notes as ordinary local Markdown files and layers on preview and split workflows,
-  math and diagram rendering, tasks and tags, and a bundled MCP server for Claude Code, Claude Desktop, and Codex.
+  ZenNotes keeps your notes as ordinary local Markdown files and layers on true keyboard-first workflows,
+  Vim-style navigation, preview and split modes, math and diagram rendering, tasks and tags, and a bundled MCP server for Claude Code, Claude Desktop, and Codex.
 </div>
 
 ## What Ships Today
 
 - Plain-file vaults with `inbox`, `quick`, `archive`, and `trash`
-- Fast markdown editing with Vim mode and remappable shortcuts
+- Fast markdown editing with Vim motions, pane navigation, and remappable shortcuts
 - Preview and split workflows with KaTeX, Mermaid, TikZ, JSXGraph, and function-plot
 - Tags, tasks, search, backlinks, and local attachments
 - Built-in MCP installation flows for Claude Code, Claude Desktop, and Codex
